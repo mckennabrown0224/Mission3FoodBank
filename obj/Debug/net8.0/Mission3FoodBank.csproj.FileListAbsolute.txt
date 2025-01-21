@@ -1,0 +1,14 @@
+/Users/kenna/Desktop/IS413/Mission3FoodBank/obj/Debug/net8.0/Mission3FoodBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenna/Desktop/IS413/Mission3FoodBank/obj/Debug/net8.0/Mission3FoodBank.AssemblyInfoInputs.cache
+/Users/kenna/Desktop/IS413/Mission3FoodBank/obj/Debug/net8.0/Mission3FoodBank.AssemblyInfo.cs
+/Users/kenna/Desktop/IS413/Mission3FoodBank/obj/Debug/net8.0/Mission3FoodBank.csproj.CoreCompileInputs.cache
+/Users/kenna/Desktop/IS413/Mission3FoodBank/bin/Debug/net8.0/Mission3FoodBank
+/Users/kenna/Desktop/IS413/Mission3FoodBank/bin/Debug/net8.0/Mission3FoodBank.deps.json
+/Users/kenna/Desktop/IS413/Mission3FoodBank/bin/Debug/net8.0/Mission3FoodBank.runtimeconfig.json
+/Users/kenna/Desktop/IS413/Mission3FoodBank/bin/Debug/net8.0/Mission3FoodBank.dll
+/Users/kenna/Desktop/IS413/Mission3FoodBank/bin/Debug/net8.0/Mission3FoodBank.pdb
+/Users/kenna/Desktop/IS413/Mission3FoodBank/obj/Debug/net8.0/Mission3FoodBank.dll
+/Users/kenna/Desktop/IS413/Mission3FoodBank/obj/Debug/net8.0/refint/Mission3FoodBank.dll
+/Users/kenna/Desktop/IS413/Mission3FoodBank/obj/Debug/net8.0/Mission3FoodBank.pdb
+/Users/kenna/Desktop/IS413/Mission3FoodBank/obj/Debug/net8.0/Mission3FoodBank.genruntimeconfig.cache
+/Users/kenna/Desktop/IS413/Mission3FoodBank/obj/Debug/net8.0/ref/Mission3FoodBank.dll
